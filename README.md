@@ -1,3 +1,3 @@
 # PHP-Array-Object
-- Exemplo: transformando array multidimensional em object
+- Exemplo: transformando array em object
 - Para fins didáticos
